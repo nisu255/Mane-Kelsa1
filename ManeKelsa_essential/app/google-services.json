@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "716055630768",
+    "project_id": "manekelsa-c340d",
+    "storage_bucket": "manekelsa-c340d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716055630768:android:9569504ca25899f6807c75",
+        "android_client_info": {
+          "package_name": "com.manekelsa.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAozHZ9tBOmkwHrBHxPd6R5_A5b7XMj2mo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
